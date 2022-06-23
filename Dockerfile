@@ -1,5 +1,5 @@
 # Pull base image 
-From tomcat:8-jre8 
+From jenkins/jenkins 
 
 # Maintainer 
 MAINTAINER "sachin.herakal@gmail.com" 
